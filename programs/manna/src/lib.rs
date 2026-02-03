@@ -23,11 +23,18 @@ declare_id!("MaNNa11111111111111111111111111111111111111");
 pub mod manna {
     use super::*;
 
-    /// Initialize the Manna protocol
-    /// Creates global state, USDsol mint, MANNA mint, and stability pool
-    /// Can only be called once
-    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
-        instructions::initialize::handler(ctx)
+    /// Initialize the Manna protocol - Part 1
+    /// Creates global state and stability pool
+    /// Call initialize_mints after this to complete setup
+    pub fn initialize_state(ctx: Context<InitializeState>) -> Result<()> {
+        instructions::initialize::handler_initialize_state(ctx)
+    }
+
+    /// Initialize the Manna protocol - Part 2
+    /// Creates the USDsol and MANNA mints
+    /// Must be called after initialize_state
+    pub fn initialize_mints(ctx: Context<InitializeMints>) -> Result<()> {
+        instructions::initialize::handler_initialize_mints(ctx)
     }
 
     /// Open a new vault and deposit initial SOL collateral

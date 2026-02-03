@@ -61,4 +61,7 @@ pub enum MannaError {
 
     #[msg("Zero amount not allowed")]
     ZeroAmount,
+
+    #[msg("Protocol already initialized")]
+    AlreadyInitialized,
 }
