@@ -8,6 +8,7 @@ pub mod close_vault;
 pub mod liquidate;
 pub mod stability_deposit;
 pub mod stability_withdraw;
+pub mod redeem;
 
 pub use initialize::*;
 pub use open_vault::*;
@@ -19,3 +20,4 @@ pub use close_vault::*;
 pub use liquidate::*;
 pub use stability_deposit::*;
 pub use stability_withdraw::*;
+pub use redeem::*;

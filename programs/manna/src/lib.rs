@@ -101,4 +101,14 @@ pub mod manna {
     pub fn stability_withdraw(ctx: Context<StabilityWithdrawCtx>, amount: u64) -> Result<()> {
         instructions::stability_withdraw::handler(ctx, amount)
     }
+
+    /// Redeem USDsol for SOL collateral at $1 parity
+    /// This is the core peg mechanism - maintains USDsol ≈ $1
+    /// Redemptions are fulfilled from vaults with lowest collateral ratios
+    /// 
+    /// # Arguments
+    /// * `usdsol_amount` - Amount of USDsol to redeem (6 decimals)
+    pub fn redeem(ctx: Context<Redeem>, usdsol_amount: u64) -> Result<()> {
+        instructions::redeem::handler(ctx, usdsol_amount)
+    }
 }
