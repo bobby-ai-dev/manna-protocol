@@ -1,0 +1,10 @@
+/root/.openclaw/workspace/projects/solana/manna/target/debug/deps/spl_token_group_interface-3a44f35c5200f0dc.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/state.rs
+
+/root/.openclaw/workspace/projects/solana/manna/target/debug/deps/libspl_token_group_interface-3a44f35c5200f0dc.so: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/state.rs
+
+/root/.openclaw/workspace/projects/solana/manna/target/debug/deps/libspl_token_group_interface-3a44f35c5200f0dc.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/state.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/instruction.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.1.0/src/state.rs:

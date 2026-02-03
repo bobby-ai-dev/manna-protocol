@@ -1,0 +1,1 @@
+{"rustc":8537886933752322161,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[5858954507332936698,"build_script_build",false,11728154459892273476]],"local":[{"RerunIfEnvChanged":{"var":"ICU4X_DATA_DIR","val":null}}],"rustflags":["--cfg","procmacro2_semver_exempt"],"config":0,"compile_kind":0}

@@ -7,7 +7,7 @@ pub mod state;
 
 use instructions::*;
 
-declare_id!("MaNNa11111111111111111111111111111111111111");
+declare_id!("6UjE17wtzEmaAhMaTVDSbrhwkqPKHcGBs7YzVgB46Sx9");
 
 /// Manna Protocol - Decentralized Borrowing on Solana
 /// 
