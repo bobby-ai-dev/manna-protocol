@@ -1,1 +1,5 @@
 node_modules/
+.next/
+app/.next/
+app/node_modules/
+*.log
