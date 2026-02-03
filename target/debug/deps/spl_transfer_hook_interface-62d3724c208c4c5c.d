@@ -1,0 +1,9 @@
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/spl_transfer_hook_interface-62d3724c208c4c5c.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/offchain.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/onchain.rs
+
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/libspl_transfer_hook_interface-62d3724c208c4c5c.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/offchain.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/onchain.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/instruction.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/offchain.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-transfer-hook-interface-0.6.5/src/onchain.rs:

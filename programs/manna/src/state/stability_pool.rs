@@ -2,7 +2,6 @@ use anchor_lang::prelude::*;
 
 /// Stability Pool - absorbs liquidated debt in exchange for collateral
 #[account]
-#[derive(Default)]
 pub struct StabilityPool {
     /// Total USDsol deposited in the pool
     pub total_usdsol_deposits: u64,

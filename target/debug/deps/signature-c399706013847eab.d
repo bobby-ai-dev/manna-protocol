@@ -1,0 +1,11 @@
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/signature-c399706013847eab.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/keypair.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/signature.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/signer.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/verifier.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/../README.md
+
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/libsignature-c399706013847eab.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/keypair.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/signature.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/signer.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/verifier.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/../README.md
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/keypair.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/signature.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/signer.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/verifier.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signature-1.6.4/src/../README.md:

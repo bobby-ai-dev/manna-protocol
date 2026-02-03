@@ -1,0 +1,10 @@
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/spl_tlv_account_resolution-42c5fe618c4d22ae.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/account.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/pubkey_data.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/seeds.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/state.rs
+
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/libspl_tlv_account_resolution-42c5fe618c4d22ae.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/account.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/pubkey_data.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/seeds.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/state.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/account.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/pubkey_data.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/seeds.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-tlv-account-resolution-0.6.5/src/state.rs:

@@ -1,0 +1,13 @@
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/serde_with-eb459a956962ef5d.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/de/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/de/impls.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/formats.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/rust.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/ser/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/ser/impls.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/utils.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/utils/duration.rs
+
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/libserde_with-eb459a956962ef5d.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/de/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/de/impls.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/formats.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/rust.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/ser/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/ser/impls.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/utils.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/utils/duration.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/de/mod.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/de/impls.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/formats.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/rust.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/ser/mod.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/ser/impls.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/utils.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with-2.3.3/src/utils/duration.rs:

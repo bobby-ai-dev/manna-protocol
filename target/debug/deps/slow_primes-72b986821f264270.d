@@ -1,0 +1,12 @@
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/slow_primes-72b986821f264270.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/bit.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/estimate.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/fast_sieve.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/is_prime.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/perfect_power.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/sieve.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/tables.rs
+
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/libslow_primes-72b986821f264270.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/bit.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/estimate.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/fast_sieve.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/is_prime.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/perfect_power.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/sieve.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/tables.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/bit.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/estimate.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/fast_sieve.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/is_prime.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/perfect_power.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/sieve.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/slow_primes-0.1.14/src/tables.rs:

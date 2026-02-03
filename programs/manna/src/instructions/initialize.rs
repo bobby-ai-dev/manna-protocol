@@ -72,11 +72,12 @@ pub struct Initialize<'info> {
 }
 
 pub fn handler(ctx: Context<Initialize>) -> Result<()> {
+    let global_state_key = ctx.accounts.global_state.key();
     let global_state = &mut ctx.accounts.global_state;
     let stability_pool = &mut ctx.accounts.stability_pool;
     
     // Initialize global state
-    global_state.authority = ctx.accounts.global_state.key(); // Self-referential for immutability
+    global_state.authority = global_state_key; // Self-referential for immutability
     global_state.usdsol_mint = ctx.accounts.usdsol_mint.key();
     global_state.manna_mint = ctx.accounts.manna_mint.key();
     global_state.price_feed = ctx.accounts.price_feed.key();

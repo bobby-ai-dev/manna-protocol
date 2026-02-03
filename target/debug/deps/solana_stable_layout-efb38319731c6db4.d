@@ -1,0 +1,10 @@
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/solana_stable_layout-efb38319731c6db4.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_rc.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_ref_cell.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_slice.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_vec.rs
+
+/root/.openclaw/workspace/projects/solana/manna-hackathon/target/debug/deps/libsolana_stable_layout-efb38319731c6db4.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_rc.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_ref_cell.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_slice.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_vec.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_instruction.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_rc.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_ref_cell.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_slice.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_vec.rs:

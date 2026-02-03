@@ -2,7 +2,6 @@ use anchor_lang::prelude::*;
 
 /// Global protocol state - singleton PDA
 #[account]
-#[derive(Default)]
 pub struct GlobalState {
     /// Authority that can perform admin operations (set to program for immutability)
     pub authority: Pubkey,
