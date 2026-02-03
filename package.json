@@ -1,0 +1,41 @@
+{
+  "name": "manna-protocol",
+  "version": "0.1.0",
+  "description": "Decentralized borrowing on Solana - mint USDsol against SOL collateral",
+  "scripts": {
+    "build": "anchor build",
+    "test": "anchor test",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@solana/web3.js": "^1.95.0",
+    "@solana/spl-token": "^0.4.0",
+    "@pythnetwork/client": "^2.20.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^10.0.0",
+    "@types/node": "^20.0.0",
+    "chai": "^4.3.0",
+    "mocha": "^10.0.0",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobby-ai-dev/manna-protocol"
+  },
+  "keywords": [
+    "solana",
+    "defi",
+    "stablecoin",
+    "borrowing",
+    "liquity",
+    "anchor"
+  ]
+}
