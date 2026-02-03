@@ -3,8 +3,8 @@ import { useConnection, useWallet } from '@solana/wallet-adapter-react';
 import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 import { PublicKey, LAMPORTS_PER_SOL } from '@solana/web3.js';
 
-// Program ID
-const PROGRAM_ID = new PublicKey('MaNNa11111111111111111111111111111111111111');
+// Program ID (deployed to devnet)
+const PROGRAM_ID = new PublicKey('6UjE17wtzEmaAhMaTVDSbrhwkqPKHcGBs7YzVgB46Sx9');
 
 // Seeds
 const GLOBAL_STATE_SEED = Buffer.from('global_state');

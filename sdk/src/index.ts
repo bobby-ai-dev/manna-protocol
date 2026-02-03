@@ -38,8 +38,8 @@ import {
 } from '@solana/spl-token';
 import * as anchor from '@coral-xyz/anchor';
 
-// Program ID
-export const PROGRAM_ID = new PublicKey('MaNNa11111111111111111111111111111111111111');
+// Program ID (deployed to devnet)
+export const PROGRAM_ID = new PublicKey('6UjE17wtzEmaAhMaTVDSbrhwkqPKHcGBs7YzVgB46Sx9');
 
 // Seeds
 export const GLOBAL_STATE_SEED = Buffer.from('global_state');
